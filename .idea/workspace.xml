@@ -5,24 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0845115c-7246-48e9-8b94-e1849b40977d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ano_Bissexto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Caixa_Eletronico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classificacao_Idade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contador_de_pares_impares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conversao_Temperatura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conversor_Moeda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fatorial_Numero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jogo_Adivinhacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Media_3_Notas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Num_Positivo_Negativo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Num_Primo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Potencia_Numero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Soma_ate_N.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tabela_Multiplicacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tabuada_Invertida.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contagem_Regressiva.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maior_Menor_Entre_Numeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Numero_Perfeito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solicitacao_Senha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Soma_Numero_impar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Soma_Numeros_Pares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tabuada_completa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Maior_de_Dois_Numeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Maior_de_Dois_Numeros.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +37,9 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="34mdKOzM9X2ZyXImnsSnyfnJVKN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -57,23 +51,30 @@
     "Application.Calculadora_Simples.executor": "Run",
     "Application.Classificacao_Idade.executor": "Run",
     "Application.Contador_de_pares_impares.executor": "Run",
+    "Application.Contagem_Regressiva.executor": "Run",
     "Application.Conversao_Temperatura.executor": "Run",
     "Application.Conversor_Moeda.executor": "Run",
     "Application.Declaração_Variáveis.executor": "Run",
     "Application.Fatorial_Numero.executor": "Run",
+    "Application.Fibonacci.executor": "Run",
     "Application.Hello_Word.executor": "Run",
     "Application.Jogo_Adivinhacao.executor": "Run",
     "Application.Maior_de_Dois_Numeros.executor": "Run",
     "Application.Media_3_Notas.executor": "Run",
     "Application.Num_Positivo_Negativo.executor": "Run",
     "Application.Num_Primo.executor": "Run",
+    "Application.Numero_Perfeito.executor": "Run",
     "Application.Operacoes_Matematicas.executor": "Run",
     "Application.Par_Impar.executor": "Run",
     "Application.Potencia_Numero.executor": "Run",
+    "Application.Solicitacao_Senha.executor": "Run",
+    "Application.Soma_Numero_impar.executor": "Run",
+    "Application.Soma_Numeros_Pares.executor": "Run",
     "Application.Soma_ate_N.executor": "Run",
     "Application.Soma_simples.executor": "Run",
     "Application.Tabela_Multiplicacao.executor": "Run",
     "Application.Tabuada_Invertida.executor": "Run",
+    "Application.Tabuada_completa.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
