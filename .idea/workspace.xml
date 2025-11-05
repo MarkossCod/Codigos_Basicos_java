@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0845115c-7246-48e9-8b94-e1849b40977d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Vetores/Atv01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vetores/Maior_Menor_Vetor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vetores/Soma_Vetores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vetores/Vetor_media.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vetores/Busca_por_nome_vetor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vetores/Ordem_invertida_vetor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vetores/Pares_Impares_Vetor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vetores/Pares_Impares_Vetor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +32,7 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="34mdKOzM9X2ZyXImnsSnyfnJVKN" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -44,6 +43,7 @@
   "keyToString": {
     "Application.Ano_Bissexto.executor": "Run",
     "Application.Atv01.executor": "Run",
+    "Application.Busca_por_nome_vetor.executor": "Run",
     "Application.Caixa_Eletronico.executor": "Run",
     "Application.Calculadora_Simples.executor": "Run",
     "Application.Classificacao_Idade.executor": "Run",
@@ -63,7 +63,9 @@
     "Application.Num_Primo.executor": "Run",
     "Application.Numero_Perfeito.executor": "Run",
     "Application.Operacoes_Matematicas.executor": "Run",
+    "Application.Ordem_invertida_vetor.executor": "Run",
     "Application.Par_Impar.executor": "Run",
+    "Application.Pares_Impares_Vetor.executor": "Run",
     "Application.Potencia_Numero.executor": "Run",
     "Application.Solicitacao_Senha.executor": "Run",
     "Application.Soma_Numero_impar.executor": "Run",
@@ -84,7 +86,20 @@
     "onboarding.tips.debug.path": "C:/Users/Aluno_Manha/Desktop/Projetos_Java/Codigos_Basicos_Java/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Busca_por_nome_vetor">
+    <configuration name="Busca_por_nome_vetor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Vetores.Busca_por_nome_vetor" />
+      <module name="Codigos_Basicos_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Vetores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Maior_Menor_Vetor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Vetores.Maior_Menor_Vetor" />
       <module name="Codigos_Basicos_Java" />
@@ -98,8 +113,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ordem_invertida_vetor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Vetores.Ordem_invertida_vetor" />
+      <module name="Codigos_Basicos_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Vetores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pares_Impares_Vetor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Vetores.Pares_Impares_Vetor" />
+      <module name="Codigos_Basicos_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Vetores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Busca_por_nome_vetor" />
+        <item itemvalue="Application.Ordem_invertida_vetor" />
+        <item itemvalue="Application.Pares_Impares_Vetor" />
         <item itemvalue="Application.Maior_Menor_Vetor" />
       </list>
     </recent_temporary>
@@ -114,6 +158,17 @@
       <updated>1761822621969</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
